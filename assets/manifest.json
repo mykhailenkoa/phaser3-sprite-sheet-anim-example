@@ -1,14 +1,22 @@
 {
     "assetRoot": "assets",
-    "totalSize": 61924,
+    "totalSize": 226222,
     "assets": {
         "spritesheet": {
             "btn_hit": {
                 "file": "btn_hit.png",
                 "size": 61924,
                 "frameConfig": {
-                    "frameWidth": 300, 
-                    "frameHeight": 300
+                    "frameWidth": 150, 
+                    "frameHeight": 150
+                }
+            },
+            "btn_double": {
+                "file": "btn_double.png",
+                "size": 164298,
+                "frameConfig": {
+                    "frameWidth": 150, 
+                    "frameHeight": 150
                 }
             }
         }
