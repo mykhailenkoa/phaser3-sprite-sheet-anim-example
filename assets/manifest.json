@@ -1,1 +1,16 @@
-{"assetRoot":"assets","totalSize":377788,"assets":{"image":{"phaser_logo":{"file":"phaser_logo.png","size":377788}}}}
+{
+    "assetRoot": "assets",
+    "totalSize": 61924,
+    "assets": {
+        "spritesheet": {
+            "btn_hit": {
+                "file": "btn_hit.png",
+                "size": 61924,
+                "frameConfig": {
+                    "frameWidth": 300, 
+                    "frameHeight": 300
+                }
+            }
+        }
+    }
+}
