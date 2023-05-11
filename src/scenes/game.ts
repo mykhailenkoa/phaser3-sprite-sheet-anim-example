@@ -29,8 +29,19 @@ const buttonsConfig: IButtonConfig[] = [
 			height: 150,
 			radius: 10
 		}
+	},
+	{
+		textureName: "btn_monkey",
+		emptyFrames: 0,
+		frameRate: 60,
+		background: {
+			width: 150,
+			height: 150,
+			radius: 10
+		}
 	}
 ];
+
 export class Game extends Scene {
 	constructor() {
 		super({ key: "GameScene" });
